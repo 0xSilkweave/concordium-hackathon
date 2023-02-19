@@ -1,4 +1,4 @@
-# Hackathon: Concordium Hackathon - The Future of Identity
+# Hackathon: Concordium - The Future of Identity
 
 Concordium Mainnet address: 3kKn2kz9YHrkrKUcBZF9NUJbg8LqGzcBbLwzH1VPBdEqseZH1c
 
